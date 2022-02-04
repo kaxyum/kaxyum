@@ -20,7 +20,7 @@
 :mortar_board: PocketMine-MP & Discord Js</p>
 :gem: Part of Developer Community.</p>
 <hr>
-<p align="center">If you like this page leave a ⭐ <!---
+<p align="center">If you like this page leave a ⭐</p> <!---
 kaxyum/kaxyum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
