@@ -5,9 +5,9 @@
 
 <p align="center">
  
- <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=00C301&style=flat" alt="kaxyum" />
+ <img src="https://komarev.com/ghpvc/?username=your-github-username"/>
  <img src="https://badges.pufler.dev/repos/kaxyum"/>
- <img src="https://badges.pufler.dev/commits/monthly/kaxyum" />
+ <img src="https://badges.pufler.dev/commits/monthly/kaxyum"/>
 
  <h2 align="center">Hello im KaxYum !</p>
 
