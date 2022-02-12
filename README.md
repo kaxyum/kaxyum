@@ -5,7 +5,7 @@
 
 <p align="center">
  
- <img src="https://komarev.com/ghpvc/?username=your-github-username"/>
+ <img src="https://komarev.com/ghpvc/?username=kaxyum"/>
  <img src="https://badges.pufler.dev/repos/kaxyum"/>
  <img src="https://badges.pufler.dev/commits/monthly/kaxyum"/>
 
