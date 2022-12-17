@@ -14,12 +14,7 @@
 <h2 align="center">Description</p>
 
 </p>
-
-:telescope: Currently working on AethTeam.</p>
-:computer: Developper PHP & JavaScript</p>
-:mortar_board: PocketMine-MP & Discord Js</p>
-:gem: Part of Developer Community.</p>
-<hr>
+It's me... KaxYum
 <p align="center">If you like this page leave a ⭐</p> <!---
 kaxyum/kaxyum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
